@@ -25,5 +25,12 @@
   "bugs": {
     "url": "https://github.com/mdvorscak/geolocation-service/issues"
   },
-  "homepage": "https://github.com/mdvorscak/geolocation-service#readme"
+  "homepage": "https://github.com/mdvorscak/geolocation-service#readme",
+  "dependencies": {
+    "ip-location": "^1.0.1",
+    "requisition": "^1.7.0"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
 }
