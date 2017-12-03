@@ -1,0 +1,29 @@
+{
+  "name": "geolocation-service",
+  "version": "1.0.0",
+  "description": "A node package to get information about geographic locations",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdvorscak/geolocation-service.git"
+  },
+  "keywords": [
+    "geolocation",
+    "ip",
+    "iplocation",
+    "location",
+    "address",
+    "google",
+    "webservice",
+    "service"
+  ],
+  "author": "Mike Dvorscak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdvorscak/geolocation-service/issues"
+  },
+  "homepage": "https://github.com/mdvorscak/geolocation-service#readme"
+}
